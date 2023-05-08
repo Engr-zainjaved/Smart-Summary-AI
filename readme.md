@@ -1,4 +1,4 @@
-## Project Demo 👇
+# Project is Live at 👇
 https://vercel-smart-summary-ai.vercel.app/
 
 ## Smart Summary AI: Harnessing OpenAI GPT-4 for Advanced Article Summarization
