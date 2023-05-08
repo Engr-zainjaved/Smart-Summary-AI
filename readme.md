@@ -1,4 +1,7 @@
-# Smart Summary AI: Harnessing OpenAI GPT-4 for Advanced Article Summarization
+## Project Demo 👇
+https://vercel-smart-summary-ai.vercel.app/
+
+## Smart Summary AI: Harnessing OpenAI GPT-4 for Advanced Article Summarization
 ![SmartSummary AI](https://res.cloudinary.com/dxpumqauw/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1683552347/Smart_Summary_AI_gxaoh1.jpg)
 
 ## Languages & Technologies
