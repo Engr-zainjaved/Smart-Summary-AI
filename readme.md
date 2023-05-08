@@ -1,18 +1,22 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+# Smart Summary AI: Harnessing OpenAI GPT-4 for Advanced Article Summarization
+![SmartSummary AI](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
+## Languages & Technologies
+- HTML
+- Tailwind CSS
+- JavaScript
+- ReactJS
+- Vite
+- Redux toolkit
+- OpenAI API through Rapid API
+
+## Features
+- Connection to OpenAI's model
+- Integration of RTK
+- Copy to clipboard
+- Browser history storage
+- Modern user interface, Responsive UI/UX using Tailwind CSS
+- clean and scaleable code
+- Handle form events and catch errors
+- ReactJS project using Vite
  
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
