@@ -1,5 +1,5 @@
 # Smart Summary AI: Harnessing OpenAI GPT-4 for Advanced Article Summarization
-![SmartSummary AI](https://drive.google.com/file/d/19ON0pOSkjVPi2hui_cSAxL6da5DqGOMd/view?usp=sharing)
+![SmartSummary AI](https://asset.cloudinary.com/dxpumqauw/4ebab45c83a726538512b710487292d7)
 
 ## Languages & Technologies
 - HTML
